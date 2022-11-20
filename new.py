@@ -1,8 +1,4 @@
-import sys
-import numpy as np
-import matplotlib.pyplot as plt
-from random import *
-def randBinList(n): return [randint(0, 1) for b in range(1, n+1)]
+
 
 
 print("\\DIGITAL LINE ENCODER//")
